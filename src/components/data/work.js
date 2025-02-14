@@ -1,13 +1,23 @@
 export const WorkData = [
   {
-    company: "Mlhuillier",
+    company: "Accenture Inc.",
     designation: "Software Engineer",
-    dateJoining: "03-22-2021",
+    dateJoining: "06-26-2023",
     dateEnd: "Present",
+    companyLogo:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYQkHvd_QKjRBQtnQiIXiE-kAVfoBRcRVwZA&s",
+
+    work: "Work in Application Support, ASP.Net MVC developer, Code Review, Database, and Junior Security Engineer",
+  },
+  {
+    company: "M Lhuillier Financial Services Inc.",
+    designation: "Software Developer",
+    dateJoining: "03-22-2021",
+    dateEnd: "06-23-2023",
     companyLogo:
       "https://yt3.ggpht.com/ytc/AKedOLRy_REqX2GVWpE_xGVA0n4O8XanZnWFEtwP7ik0Cg=s900-c-k-c0x00ffffff-no-rj",
 
-    work: "Work in mobile Development, Integration of API from backend to frontEnd, and Code Review",
+    work: "Working on both Frontend and Backend, application development, manual testing, releasing applications in different environments, and database.",
   },
   {
     company: "Hometakes.com",

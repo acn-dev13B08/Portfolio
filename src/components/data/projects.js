@@ -10,11 +10,11 @@ export const ProjectData = [
   },
   {
     id: 2,
-    title: "Premyo App",
+    title: "Softype Employee Portal",
     about:
-      "This system helps customers to conveniently join loyalty programs and visit the store rewards and offer benefits. It provides customers to efficiently place orders and gain points on the store. ",
-    tags: ["Nebular Angular", "Ionic Angular", "Node JS", "MongoDB"],
-    demo: "http://premyo.herokuapp.com/",
-    image: require("../../assets/premyoApp.png").default,
+      "This system is designed to assist the employees of Softype, Inc., with a particular focus on supporting the HR department in maintaining transparency within the company. The dashboard displays key information, including the number of employees currently on leave, the total number of employees available for duty, the birthday celebrants for the day, and any pending leave requests. In the sidebar, users can find various menus related to leave management, employee details, departmental assignments, office equipment requests, the company repository, and other relevant sections. This streamlined approach ensures clear communication and easy access to important company information.",
+    tags: ["React JS", "PHP Laravel", "Node JS", "MongoDB", "AWS"],
+    demo: "https://softype-admin.vercel.app/dashboard",
+    image: require("../../assets/softype.png").default,
   },
 ];
